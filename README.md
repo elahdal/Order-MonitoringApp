@@ -3,6 +3,7 @@
 This project is a client-server application that manages product orders and monitors their status in real-time. The system consists of two main applications:
 
 1 - Order Application: Allows employees to input new orders.
+
 2 - Monitoring Application: Allows the store owner to monitor orders, view order history, and export data.
 
 ## Key Features
